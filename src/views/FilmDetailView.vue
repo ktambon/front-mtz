@@ -1,6 +1,6 @@
 <template>
   <div class="min-h-screen bg-zinc-950 flex flex-col">
-    <!-- Fond décoratif -->
+    <!-- Fond décoratif commun -->
     <div class="fixed inset-0 overflow-hidden pointer-events-none">
       <div
         class="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_#1a0a0a_0%,_#09090b_60%)]"
